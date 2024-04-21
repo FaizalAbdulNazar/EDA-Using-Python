@@ -37,7 +37,7 @@ To run the analysis:
 
 Install Python and Jupyter Notebook.
 
-Open Weather_Data_Analysis.ipynb using Jupyter Notebook.
+Open Weather_dataset.ipynb using Jupyter Notebook.
 
 Follow the instructions and run the code cells sequentially.
 
